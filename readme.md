@@ -1,13 +1,12 @@
 # Bookmark Website
-
-Bookmark landing page from my Tailwind course and from [Frontend Mentor Challenge](https://www.frontendmentor.io/challenges/bookmark-landing-page-5d0b588a9edda32581d29158)
+https://bookmark-two-swart.vercel.app/
 
 ## Usage
 
 Install dependencies
 
 ```
-npm Install
+npm install
 ```
 
 Run Tailwind CLI
@@ -16,4 +15,3 @@ Run Tailwind CLI
 npm run watch
 ```
 
-![Alt text](images/bookmark.png)
