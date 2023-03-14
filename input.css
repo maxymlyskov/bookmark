@@ -17,7 +17,9 @@
     @apply absolute rounded-r-full top-60 bg-softBlue;
   }
 }
-
+.ficon {
+  transition: 0.3s all;
+}
 .ficon:hover {
   filter: invert(53%) sepia(38%) saturate(3303%) hue-rotate(326deg)
     brightness(101%) contrast(96%);
@@ -36,7 +38,7 @@
 .hamburger-top,
 .hamburger-middle,
 .hamburger-bottom {
-  content: '';
+  content: "";
   position: absolute;
   width: 24px;
   height: 3px;
